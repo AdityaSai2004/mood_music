@@ -25,3 +25,5 @@ While using the webcam press Space bar to save and Esc key to close window
 2.The FER() module finds the closest emotion
 
 3.Then a playlist is suggested based on the results
+
+![GIF](https://imgur.com/AtE71n1)
