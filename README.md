@@ -26,4 +26,4 @@ While using the webcam press Space bar to save and Esc key to close window
 
 3.Then a playlist is suggested based on the results
 
-![GIF](https://imgur.com/AtE71n1)
+![GIF](Animation.gif)
